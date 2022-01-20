@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SSOAuth.aspx.cs" Inherits="SingleSignOn.SSOAuth" %>
